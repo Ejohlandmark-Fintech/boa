@@ -5,3 +5,5 @@ rm is to remove file
 git log
 git commit -m
 git push ad master
+git add .
+git status
